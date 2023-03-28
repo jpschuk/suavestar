@@ -1,0 +1,41 @@
+.main-navbar {
+  background-color: #106989  ;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  justify-items: baseline;
+}
+
+.navitems {
+  margin-top: 110px;
+  font-family: "poppins";
+  text-align: center;
+  color: white;
+  text-transform: capitalize;
+}
+
+
+.container-box-nav {
+  margin: 0%;
+  padding: 0%;
+  padding-left: 0%;
+}
+
+.main-navbar-items {
+  width: 100%;
+}
+
+.container-nav {
+  margin: 0%;
+  padding: 0%;
+}
+
+.nav-text {
+  color: white;
+}
+
+#app {
+  margin: 0%;
+  padding: 0%;
+  font-family: "poppins";
+}
