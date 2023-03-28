@@ -1,6 +1,6 @@
 <script setup>
 import {category,data} from "../data"
-import Carousel from 'vue-carousel';
+import Carousel from "vue-carousel";
 </script>
 <template>
   <nav class="container-nav navbar navbar-expand-lg bg-body-tertiary">

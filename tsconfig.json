@@ -1,18 +1,7 @@
-  {
-    "compilerOptions": {
-      "target": "es6",
-      "module": "commonjs",
-      "strict": true,
-      "esModuleInterop": true,
-      "outDir": "dist",
-      "baseUrl": ".",
-      "paths": {
-        "*": ["node_modules/*", "typings/*"]
-      }
-    }
-  ,
-  "include": [
-    "src/**/*.ts",
-    "src/vue-carousel.d.tsd.ts"
-  ]
+{
+  "compilerOptions": {
+    "noEmitOnError": false,
+    "allowJs": true,
+    "checkJs": false
+  }
 }
